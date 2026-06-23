@@ -1,4 +1,4 @@
-# Hi, I'm Shafeeq 👋
+# Hi, I'm Muhammad Shafeeq 👋
 
 Senior full-stack developer building business software since 2013. Most of my work is in Laravel and .NET across POS, healthcare records, payroll, attendance, time tracking, reporting, and internal operations systems.
 
