@@ -24,8 +24,4 @@ I like working on software across web, desktop, and mobile platforms, especially
 - Workforce operations and time tracking
 - POS, payroll, and healthcare-record systems
 - Business data tools and workflows
-- macOS development utilities
-
-## Connect
-
-[mshaf.com](https://mshaf.com) · open to contract and advisory work
+- macOS development
